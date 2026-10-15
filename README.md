@@ -99,7 +99,7 @@ bank-deposit-prediction/
     └── random_forest_roc.png
 ```
 
-\## Author
+## Author
 
 
 
